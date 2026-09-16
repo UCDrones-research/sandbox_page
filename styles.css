@@ -1,1 +1,77 @@
 /* css styles */
+/* Custom rules on top of _brand.yml.
+   _brand.yml handles the portable brand basics (primary color, fonts, logo).
+   Everything below is one-off component styling specific to this site. */
+
+/* ---- Navbar accent ---- */
+.navbar {
+  background-color: #005581 !important; /* blue-dark — this was missing entirely,
+                                             which is the actual root cause of the
+                                             background not showing as navy */
+  border-bottom: 3px solid #FFB511; /* gold */
+ 
+  /* Bootstrap 5's navbar text colors are driven by these custom properties,
+     not just a plain .nav-link color rule — overriding them directly is
+     more reliable than fighting the compiled theme's own color logic. */
+  --bs-navbar-color: #FFFFFF;
+  --bs-navbar-hover-color: #FFB511;
+  --bs-navbar-active-color: #FFB511;
+  --bs-navbar-brand-color: #FFFFFF;
+  --bs-navbar-brand-hover-color: #FFB511;
+}
+ 
+.navbar .nav-link,
+.navbar a,
+.navbar-brand {
+  color: #FFFFFF !important;
+}
+.navbar .nav-link:hover,
+.navbar a:hover {
+  color: #FFB511 !important; /* gold */
+}
+
+/* Placeholder wordmark sizing — adjust to your actual logo's proportions */
+.navbar-brand img {
+  height: 40px;
+}
+
+/* ---- Sidebar active state ---- */
+.sidebar-item.active > .sidebar-link {
+  color: #005581; /* blue-dark */
+  font-weight: 600;
+  border-left: 3px solid #FFB511; /* gold */
+  padding-left: 0.5rem;
+}
+
+/* ---- News category tags ----
+   Add these manually where you render category labels, e.g.:
+   <span class="category-tag category-tag--law">Law</span> */
+.category-tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.15rem 0.6rem;
+  border-radius: 2px;
+  letter-spacing: 0.01em;
+}
+
+.category-tag--law {
+  background-color: #00778B; /* teal */
+  color: #FFFFFF;             /* verified AA per brand guide */
+}
+
+.category-tag--students {
+  background-color: #FF6E1B; /* orange */
+  color: #171717;             /* white fails contrast on orange — dark text required */
+}
+
+/* ---- Gold as accent only — never as a background with light text on top ---- */
+.callout,
+blockquote {
+  border-left: 4px solid #FFB511;
+}
+
+/* NOTE: If you enable Quarto's built-in category filter UI (categories: true
+   on a listing), render the site once and inspect the actual HTML class
+   names it generates before styling it — those internal classes can shift
+   between Quarto versions, so it's worth confirming rather than assuming. */

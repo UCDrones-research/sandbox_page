@@ -2,15 +2,87 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "sandbox_page",
+    "title": "Home Page",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "The UC Center of Excellence on Unmanned Aircraft System Safety has developed this portal of resources for all users of Unmanned Aircraft Systems within the University of California."
+  },
+  {
+    "objectID": "index.html#uc-drone-web-app",
+    "href": "index.html#uc-drone-web-app",
+    "title": "Home Page",
+    "section": "UC Drone Web App",
+    "text": "UC Drone Web App\nFor submitting UC flight requests and reports, please visit http://ehs.ucop.edu/drones\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nLast update: 2026-09-16\ndddd\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "general-information/index.html",
+    "href": "general-information/index.html",
+    "title": "General Information",
+    "section": "",
+    "text": "This is the main GI landing page\nyear-month-day",
+    "crumbs": [
+      "General Information"
+    ]
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Us",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "The University of California Center of Excellence on Unmanned Aircraft System Safety provides system-wide expertise, support, and training for regulatory compliance, risk management, and the safe operation of unmanned aircraft systems (UAS), commonly known as drones, across the University of California system. This covers all 10 UC campuses, UC Medical Centers, the Division of Agriculture and Natural Resources, the UC Natural Reserve System, UC Cooperative Extensions, and wherever UC conducts official business worldwide.\nSince March 2016, the Center of UAS Safety has worked to develop effective safety and risk management strategies applicable to the wide variety of unmanned aircraft use and development in the UC system. Across the UC system, there are currently an estimated 300 active unmanned aircraft used by UC faculty, staff and students, and the number is growing daily. The UC UAS Policy was finalized in February 2018 to establish a standardized top-down management approach and to assign roles & responsibilities for oversight.",
+    "crumbs": [
+      "About Us"
+    ]
+  },
+  {
+    "objectID": "about.html#unmanned-aircraft-systems-at-the-university-of-california",
+    "href": "about.html#unmanned-aircraft-systems-at-the-university-of-california",
+    "title": "About Us",
+    "section": "",
+    "text": "The University of California Center of Excellence on Unmanned Aircraft System Safety provides system-wide expertise, support, and training for regulatory compliance, risk management, and the safe operation of unmanned aircraft systems (UAS), commonly known as drones, across the University of California system. This covers all 10 UC campuses, UC Medical Centers, the Division of Agriculture and Natural Resources, the UC Natural Reserve System, UC Cooperative Extensions, and wherever UC conducts official business worldwide.\nSince March 2016, the Center of UAS Safety has worked to develop effective safety and risk management strategies applicable to the wide variety of unmanned aircraft use and development in the UC system. Across the UC system, there are currently an estimated 300 active unmanned aircraft used by UC faculty, staff and students, and the number is growing daily. The UC UAS Policy was finalized in February 2018 to establish a standardized top-down management approach and to assign roles & responsibilities for oversight.",
+    "crumbs": [
+      "About Us"
+    ]
+  },
+  {
+    "objectID": "about.html#regulatory-compliance-risk-management-and-training",
+    "href": "about.html#regulatory-compliance-risk-management-and-training",
+    "title": "About Us",
+    "section": "Regulatory Compliance, Risk Management and Training",
+    "text": "Regulatory Compliance, Risk Management and Training\nThe Center is focused on the following goals: - Promote UAS Safety through the development of a UAS Safety Management System, a four-pillared approach of Safety Policy, Safety Risk Management, Safety Assurance, and Safety Promotion - Develop effective UAS policies that define the processes and organization structure for UAS operations - Systematic processes for assessing and managing UAS risk - Fleet management system to provide continued monitoring of UAS activity and risk - Communicate UAS regulations and provide training\nThe wide range of UAS activity by UC affiliates and visitors necessitates a holistic approach to safety. The four-pillared approach, encapsulated as the UAS Safety Management System, structures safety as a combination of multiple aspects. This systematic approach is the first to manage UAS activity at the size and magnitude of the University of California system. While other agencies consider unmanned aircraft an isolated risk, the University of California has incorporated UAS into its Enterprise Risk Management approach.",
+    "crumbs": [
+      "About Us"
+    ]
+  },
+  {
+    "objectID": "about.html#services-provided-by-the-center-of-uas-safety",
+    "href": "about.html#services-provided-by-the-center-of-uas-safety",
+    "title": "About Us",
+    "section": "Services provided by the Center of UAS Safety",
+    "text": "Services provided by the Center of UAS Safety\nAs primarily a service-oriented unit, the Center of UAS Safety has a long list of services it provides to the UC system. Some examples include:\n\nGuidance on UAS laws and regulations\nGuidance on UAS usage on UC property\nGeneration of UAS activity reports\nFleet management system to monitor UAS conditions, pilot training, and flight operations\nIdentification of legal flying sites\nProcessing of authorization for UAS flight operations\nTraining on emerging UAS challenges\nSafety training on UAS operations\n\nFor more information about the University of California Center of Excellence on Unmanned Aircraft System Safety, visit the webpage or contact the Center at UASSafety@ucmerced.edu or (209) 201-2051.",
+    "crumbs": [
+      "About Us"
+    ]
+  },
+  {
+    "objectID": "general-information/code-of-conduct.html",
+    "href": "general-information/code-of-conduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "For any activity hosted by the UC Center of Excellence on UAS Safety, we expect participants to follow these rules. This includes any in-person training, virtual events, online forums and participation on social media.\nThe UC Center of Excellence is dedicated to providing a harassment-free experience for everyone whether in physical or virtual spaces. We do not tolerate harassment of community members or event participants in any form. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the UC Center of Excellence on UAS Safety and any event organizers.\nHarassment includes offensive verbal comments related to gender, gender identity and expression, sexual orientation, disability, group status, physical appearance, body size, race, or religion. In addition, harassment includes the acts of deliberate intimidation, stalking, following, unwelcome photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.\nIf an event participant engages in harassing behavior, the UC Center of Excellence on UAS Safety or event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event.\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact us by email at UASsafety@ucmerced.edu. We will work with anyone who reports an issue and will work quickly to address the problem.",
+    "crumbs": [
+      "General Information",
+      "Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "general-information/points-of-contact.html",
+    "href": "general-information/points-of-contact.html",
+    "title": "Campus Points of Contact",
+    "section": "",
+    "text": "Campus / Entity\nDepartment\nWebsite\nEmail\n\n\n\n\nUC ANR\nInformatics & GIS\nigis.ucanr.edu\nigis@ucanr.edu\n\n\nUC Berkeley\nCampus Police & Risk Services\nCampus Policy\nrisk@berkeley.edu\n\n\nUC Davis\nRisk Services\nSafety Services\nrms@ucdavis.edu\n\n\nUC Irvine\nEH&S and Risk Services\nCampus Policy\n\n\n\nUC Los Angeles\nEvent Services\nDrone Procedures\nevents@ucla.edu\n\n\nUC Merced\nUC CoE on UAS Safety\nUAS Safety\nuassafety@ucmerced.edu\n\n\nLawrence Berkeley National Lab\nEH&S\nAviation Policy\n\n\n\nUC Riverside\nEH&S\nDrone Safety\nehs@ucr.edu\n\n\nUC San Diego\nEH&S\nDrone Safety\nehsfaa@ucsd.edu\n\n\nUC San Francisco\nEH&S\nDrone Operations\nDrones@ucsf.edu\n\n\nUC Santa Barbara\nEH&S\nUAS & Drones\n\n\n\nUC Santa Cruz\nEH&S\nUAS/Drones\nuas@ucsc.edu",
+    "crumbs": [
+      "General Information",
+      "Campus Points of Contact"
+    ]
   }
 ]
