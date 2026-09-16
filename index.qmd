@@ -1,10 +1,19 @@
 ---
-title: "sandbox_page"
+title: "Home Page"
 ---
 
-This is a Quarto website.
+The **UC Center of Excellence on Unmanned Aircraft System Safety** has developed this portal of resources for all users of Unmanned Aircraft Systems within the University of California.
+
+## UC Drone Web App
+For submitting UC flight requests and reports, please visit http://ehs.ucop.edu/drones
+
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+**Last update: {{< now "%Y-%m-%d" >}}**
+
+
+dddd 
 
 ```{r}
 1 + 1
