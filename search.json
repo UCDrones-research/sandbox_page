@@ -1,88 +1,504 @@
 [
   {
+    "objectID": "tools-and-resources/useful-links.html",
+    "href": "tools-and-resources/useful-links.html",
+    "title": "Useful Links",
+    "section": "",
+    "text": "FAA DroneZone\nFAA UAS Program - Central FAA hub for drone rules, registration, and resources\n14 CFR Part 107 - The current federal regulation governing small UAS operations\nList of FAA Approved Drones (DOC/RID)\nRemote ID - FAA requirements for drone Remote Identification broadcast",
+    "crumbs": [
+      "Tools and Resources",
+      "Useful Links"
+    ]
+  },
+  {
+    "objectID": "tools-and-resources/useful-links.html#regulatory-registration",
+    "href": "tools-and-resources/useful-links.html#regulatory-registration",
+    "title": "Useful Links",
+    "section": "",
+    "text": "FAA DroneZone\nFAA UAS Program - Central FAA hub for drone rules, registration, and resources\n14 CFR Part 107 - The current federal regulation governing small UAS operations\nList of FAA Approved Drones (DOC/RID)\nRemote ID - FAA requirements for drone Remote Identification broadcast",
+    "crumbs": [
+      "Tools and Resources",
+      "Useful Links"
+    ]
+  },
+  {
+    "objectID": "tools-and-resources/useful-links.html#airspace-flight-planning",
+    "href": "tools-and-resources/useful-links.html#airspace-flight-planning",
+    "title": "Useful Links",
+    "section": "Airspace & Flight Planning",
+    "text": "Airspace & Flight Planning\n\nLAANC - Low Altitude Authorization and Notification Capability for near-real-time airspace authorization\nTemporary Flight Restrictions (TFRs) - Real-time list of active flight restrictions\nUAS Facility Maps - Maximum pre-approved altitudes around airports in controlled airspace\nSkyVector - Free VFR sectional chart viewer showing airspace classes, TFRs, and IFR approaches",
+    "crumbs": [
+      "Tools and Resources",
+      "Useful Links"
+    ]
+  },
+  {
+    "objectID": "tools-and-resources/useful-links.html#equipment-data",
+    "href": "tools-and-resources/useful-links.html#equipment-data",
+    "title": "Useful Links",
+    "section": "Equipment & Data",
+    "text": "Equipment & Data\n\nBlue UAS Cleared List\nFAA UAS Data Delivery System - Downloadable FAA UAS geospatial data (CSV, JSON, KML, Shapefile)\nuasimg - R package for managing and organizing UAS imagery (developed by UC ANR IGIS)",
+    "crumbs": [
+      "Tools and Resources",
+      "Useful Links"
+    ]
+  },
+  {
+    "objectID": "tools-and-resources/useful-links.html#safety-research-organizations",
+    "href": "tools-and-resources/useful-links.html#safety-research-organizations",
+    "title": "Useful Links",
+    "section": "Safety & Research Organizations",
+    "text": "Safety & Research Organizations\n\nUnmanned Aircraft Safety Team\nASSURE - FAA-designated Center of Excellence for UAS research, a coalition of 30+ universities\nAUVSI - Association for Uncrewed Vehicle Systems International, the industry’s main trade/professional association\nNASA ASRS - NASA UAS Safety Reporting",
+    "crumbs": [
+      "Tools and Resources",
+      "Useful Links"
+    ]
+  },
+  {
+    "objectID": "tools-and-resources/decision-tools.html",
+    "href": "tools-and-resources/decision-tools.html",
+    "title": "Decision Support Tools",
+    "section": "",
+    "text": "A set of interactive tools to support pre-flight planning and risk assessment. These are aids for thinking through a mission systematically — they don’t replace a pilot’s judgment or your organization’s own safety procedures and regulatory compliance requirements.",
+    "crumbs": [
+      "Tools and Resources",
+      "Decision Support Tools"
+    ]
+  },
+  {
+    "objectID": "tools-and-resources/decision-tools.html#uc-drones-toolset",
+    "href": "tools-and-resources/decision-tools.html#uc-drones-toolset",
+    "title": "Decision Support Tools",
+    "section": "UC Drones Toolset",
+    "text": "UC Drones Toolset\n\nUC Mission Risk Checker — Rate pilot, aircraft, location, flight plan, weather, ground crew, and organizational readiness to visualize an overall mission risk profile before flying.\nVisual Line of Sight Estimator — Estimates the maximum distance at which a given drone model remains visible to the naked eye, based on aircraft size and standard visual acuity thresholds.\nStandoff Distance for Operations over Buildings — Calculates the minimum safe horizontal distance needed to maintain line of sight on a drone flying above a building, based on building height, length, and flight altitude.\nDrone Map of California — Map of UC properties, county/city regulations, and public lands relevant to flight planning.\nUAS Registration Tag Generator — enter a drone nickname, campus, and FAA registration number to generate a printable tag PDF",
+    "crumbs": [
+      "Tools and Resources",
+      "Decision Support Tools"
+    ]
+  },
+  {
+    "objectID": "tools-and-resources/decision-tools.html#partner-tools",
+    "href": "tools-and-resources/decision-tools.html#partner-tools",
+    "title": "Decision Support Tools",
+    "section": "Partner Tools",
+    "text": "Partner Tools\n\nWhen2Fly — Decision support tool from the Digital Agriculture Laboratory (Alireza Pourreza, UC Davis).",
+    "crumbs": [
+      "Tools and Resources",
+      "Decision Support Tools"
+    ]
+  },
+  {
+    "objectID": "selecting-a-drone/multimedia-drones.html",
+    "href": "selecting-a-drone/multimedia-drones.html",
+    "title": "Drones for Multimedia",
+    "section": "",
+    "text": "Users seeking a drone for photography or videography do not need to consider mapping-software compatibility; camera quality and ease of operation are the primary factors.\n\n\n\n\n\n\nImportant\n\n\n\nThere are no drones for multimedia that are US-made or NDAA compliant. Please refer to NDAA-Compliant Drones.\n\n\n\nAir 3S — DJI Air 3S, $1,099. 45-minute flight time, 50MP/48MP telephoto dual camera system, excellent flight performance.\nMavic 4 Pro — DJI Mavic 4 Pro, $2,899. The last and best DJI Mavic drone available in the US. Suberp performance in all categories.\nAntigravity A1 - Antigravity A1, $1,599. 8K 360-degree camera drone with FPV headset. FreeMotion point-and-fly control, 249g, 24–39 min flight time.\nDJI Avata 360 — DJI Avata 360, from $719 (RC 2 combo) to $979 (Fly More Combo). Dual 1-inch sensor 8K/60fps 360-degree FPV drone, 23-min flight time, reframe-after-flight capture.",
+    "crumbs": [
+      "Need to Pick a Drone?",
+      "Drones for Multimedia"
+    ]
+  },
+  {
+    "objectID": "selecting-a-drone/low-cost.html",
+    "href": "selecting-a-drone/low-cost.html",
+    "title": "Low-Cost Drones",
+    "section": "",
+    "text": "The following options are suitable for users who want to begin flying without a large investment. These drones do not include mapping software or research-grade sensors.\n\n\n\n\n\n\nImportant\n\n\n\nThere are no low-cost drones that are US-made or NDAA compliant. Please refer to NDAA-Compliant Drones.\n\n\n\nMini 4 Pro — DJI’s compact, affordable line. At 249g, it is well suited as a flight trainer and for casual media use. The current model is the Mini 4 Pro; the earlier Mini 3 and Mini 3 Pro remain viable options. The controller with a built-in screen (DJI RC/RC 2) offers the most portability.\nAeroo Pro — Aeroo Pro, $1,099. Provides a 45-minute flight time, 2.2 lb payload capacity, and a remote payload-release mechanism; some researchers have used it for small sensor deliveries.\nPotensic Atom 2 — Potensic Atom 2, $359. A lower-quality alternative to the DJI Mini 2. Not NDAA compliant, as it is manufactured in China.\nDJI Neo — DJI Neo, ~$199. 135g micro-sized drone, 4K/30fps, ~18-min flight.\nDJI Neo 2 — DJI Neo 2, ~$429. Newest model with extra functionality. 151g, omnidirectional obstacle avoidance, 4K/60fps, ~19-min flight.",
+    "crumbs": [
+      "Need to Pick a Drone?",
+      "Low-Cost Drones"
+    ]
+  },
+  {
+    "objectID": "selecting-a-drone/drone-table.html",
+    "href": "selecting-a-drone/drone-table.html",
+    "title": "Drone Table",
+    "section": "",
+    "text": "Full searchable list of drones, including MTOW, NDAA/Blue UAS status, and specs:\nopen in Airtable",
+    "crumbs": [
+      "Need to Pick a Drone?",
+      "Drone Table"
+    ]
+  },
+  {
+    "objectID": "posts/2026-09-23-example/index.html",
+    "href": "posts/2026-09-23-example/index.html",
+    "title": "Example",
+    "section": "",
+    "text": "Write your post here.\n← Back to Recent News"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home Page",
     "section": "",
-    "text": "The UC Center of Excellence on Unmanned Aircraft System Safety has developed this portal of resources for all users of Unmanned Aircraft Systems within the University of California."
+    "text": "The UC Center of Excellence on Unmanned Aircraft System Safety has developed this portal of resources for all users of Unmanned Aircraft Systems within the University of California.",
+    "crumbs": [
+      "Home Page"
+    ]
   },
   {
     "objectID": "index.html#uc-drone-web-app",
     "href": "index.html#uc-drone-web-app",
     "title": "Home Page",
     "section": "UC Drone Web App",
-    "text": "UC Drone Web App\nFor submitting UC flight requests and reports, please visit http://ehs.ucop.edu/drones\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nLast update: 2026-09-16\ndddd\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "general-information/index.html",
-    "href": "general-information/index.html",
-    "title": "General Information",
-    "section": "",
-    "text": "This is the main GI landing page\nyear-month-day",
+    "text": "UC Drone Web App\nTo submit UC flight requests and reports, use the UC Drone Web App.\n\n\n\n\n\n\n\n\n\n\n\nImportantRestrictions on foreign-made drones\n\n\n\n\nFederally funded projects: Drones from DJI, Autel, and other covered foreign manufacturers can no longer be purchased or flown on federally funded projects.\nNew FCC authorizations: New foreign-made drone models can no longer receive FCC equipment authorization, with limited exceptions. Drones that are already authorized can still be owned and flown.\n\nReview your fleet and projects now, and contact us if you have questions.",
     "crumbs": [
-      "General Information"
+      "Home Page"
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Us",
+    "objectID": "index.html#connect-with-us",
+    "href": "index.html#connect-with-us",
+    "title": "Home Page",
+    "section": "Connect with Us",
+    "text": "Connect with Us\nTo join the UC Drone listserv, email us a listserv request.\nWant to talk with us online? Use our Booking Link. Pick a time that works for you, and the system will schedule a Microsoft Teams meeting.",
+    "crumbs": [
+      "Home Page"
+    ]
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Home Page",
+    "section": "Quick Links",
+    "text": "Quick Links\n\nNew User Guide - New to Drones? New to flying for Research? Start here for an overview of the UC policy and procedures.\nUnmanned Aircraft System (Drone) Policy - The UC Presidential Policy on the use of Unmanned Aircraft Systems within the University of California.\nDrone Map of California - Map of UC properties, County/City regulations, and public lands.\n\nLast update: 2026-09-23",
+    "crumbs": [
+      "Home Page"
+    ]
+  },
+  {
+    "objectID": "getting-started/standard-operating-procedures.html",
+    "href": "getting-started/standard-operating-procedures.html",
+    "title": "Standard Operating Procedures and Guidance",
+    "section": "",
+    "text": "New User Guide\n\nJust getting started with Drones in the UC System? Start here! Includes registration and licensing information.",
+    "crumbs": [
+      "Getting Started",
+      "Standard Operating Procedures and Guidance"
+    ]
+  },
+  {
+    "objectID": "getting-started/standard-operating-procedures.html#new-user-guide",
+    "href": "getting-started/standard-operating-procedures.html#new-user-guide",
+    "title": "Standard Operating Procedures and Guidance",
+    "section": "",
+    "text": "New User Guide\n\nJust getting started with Drones in the UC System? Start here! Includes registration and licensing information.",
+    "crumbs": [
+      "Getting Started",
+      "Standard Operating Procedures and Guidance"
+    ]
+  },
+  {
+    "objectID": "getting-started/standard-operating-procedures.html#basic-drone-operations",
+    "href": "getting-started/standard-operating-procedures.html#basic-drone-operations",
+    "title": "Standard Operating Procedures and Guidance",
+    "section": "Basic Drone Operations",
+    "text": "Basic Drone Operations\nStandard Operating Procedures for Basic UAS Operations\n\nA short SOP for simple and low risk drone operations.",
+    "crumbs": [
+      "Getting Started",
+      "Standard Operating Procedures and Guidance"
+    ]
+  },
+  {
+    "objectID": "getting-started/standard-operating-procedures.html#advanced-drone-operations",
+    "href": "getting-started/standard-operating-procedures.html#advanced-drone-operations",
+    "title": "Standard Operating Procedures and Guidance",
+    "section": "Advanced Drone Operations",
+    "text": "Advanced Drone Operations\nStandard Operating Procedures for Advanced Drone Operations\n\nRequired Standard Operating Procedures Manual for moderate to risky drone operations, or flight operations under special authorizations",
+    "crumbs": [
+      "Getting Started",
+      "Standard Operating Procedures and Guidance"
+    ]
+  },
+  {
+    "objectID": "getting-started/insurance.html",
+    "href": "getting-started/insurance.html",
+    "title": "Insurance",
+    "section": "",
+    "text": "The University of California has purchased an Unmanned Aircraft System Liability Policy. This policy has a total of $5 Mil limit including Personal Injury.\nCoverage is automatic for UAS activity that meet the following criteria:\n\nFlight operations are conducted on behalf and sanctioned by the University of California.\nAircraft weight under 55 lbs (at time of takeoff)\nFlight operations are within Visual Line of Sight\nFlight operations are below 400 ft above ground level.\nFlight operations must be conducted within the United States.\n\nAny UAS activity that do not meet the above criteria or operate outside the above criteria must be reported to and approved by the insurance underwriter in order to be covered.\n\n\nThe University of California has extended their UAS liability policy to enable coverage of UAS owned by UC students, staff or faculty used for University Business, including research. Coverage is contingent on compliance with the policy and procedures on UAS usage. This coverage is not intended to cover student organizations or 3rd Party vendors or contractors.\n\n\n\nThe University of California has extended their UAS liability policy to enable coverage of UAS by Campus Police. All coverage is contingent on the UAS activity being sanctioned by the UC.\nAny UAS activity that is not approved by a Designated Local Authority or Systemwide Designated UAS Authority is not covered by this liability insurance.",
+    "crumbs": [
+      "Getting Started",
+      "Insurance"
+    ]
+  },
+  {
+    "objectID": "getting-started/insurance.html#s-UC-liability",
+    "href": "getting-started/insurance.html#s-UC-liability",
+    "title": "Insurance",
+    "section": "",
+    "text": "The University of California has purchased an Unmanned Aircraft System Liability Policy. This policy has a total of $5 Mil limit including Personal Injury.\nCoverage is automatic for UAS activity that meet the following criteria:\n\nFlight operations are conducted on behalf and sanctioned by the University of California.\nAircraft weight under 55 lbs (at time of takeoff)\nFlight operations are within Visual Line of Sight\nFlight operations are below 400 ft above ground level.\nFlight operations must be conducted within the United States.\n\nAny UAS activity that do not meet the above criteria or operate outside the above criteria must be reported to and approved by the insurance underwriter in order to be covered.\n\n\nThe University of California has extended their UAS liability policy to enable coverage of UAS owned by UC students, staff or faculty used for University Business, including research. Coverage is contingent on compliance with the policy and procedures on UAS usage. This coverage is not intended to cover student organizations or 3rd Party vendors or contractors.\n\n\n\nThe University of California has extended their UAS liability policy to enable coverage of UAS by Campus Police. All coverage is contingent on the UAS activity being sanctioned by the UC.\nAny UAS activity that is not approved by a Designated Local Authority or Systemwide Designated UAS Authority is not covered by this liability insurance.",
+    "crumbs": [
+      "Getting Started",
+      "Insurance"
+    ]
+  },
+  {
+    "objectID": "getting-started/insurance.html#s-UC-physical-damage",
+    "href": "getting-started/insurance.html#s-UC-physical-damage",
+    "title": "Insurance",
+    "section": "Physical Damage Coverage",
+    "text": "Physical Damage Coverage\nPhysical damage to Unmanned Aircraft Systems (UAS) registered with the UC Center of Excellence on UAS Safety is provided by a physical damage policy from the University’s captive insurance company, Fiat Lux Risk and Insurance Company.\n\nCoverage applies in flight only when an approved flight plan is filed in accordance with UC UAS Policy, which includes the UC Drone web app or other means of compliance.\nCoverage applies to Unmanned Aircraft Systems not in flight, but only if the Unmanned Aircraft Systems are registered with the UC Center of Excellence on UAS Safety at the time of the loss.\nThe policy limit per occurrence is $100,000 for UAS. Policy conditions and the scheduled value of the Unmanned Aircraft System may limit recovery. Unmanned Aircraft Systems are covered at present value not replacement cost. Depreciation does apply to claims for Unmanned Aircraft Systems.\nUnmanned Aircraft Systems with values greater than $100,000 can be endorsed to the policy.\nThe UAS Physical Damage policy does not cover damage to payload or cargo; submit payload/cargo losses to the UC’s property policy.\nA $1,000 deductible applies per loss. If an Unmanned Aircraft System loss results in damage to payload/cargo, the deductible is pro-rated between the policies.\nIn the event of a loss, please report to campus risk management.\n\nThis physical damage coverage does not extend to personally owned Unmanned Aircraft Systems used for University Business. Only Unmanned Aircraft Systems owned by the University of California are covered.\n\nFiling a Claim\nTo file a claim, contact your campus Risk Manager. Please prepare the following:\n\nCopy of the post-flight report (through UC Drones or other means of compliance)\nPhotographs of damaged equipment\nCopy of original purchase invoice\nCopy of invoice to ship the equipment back the manufacturer\nCopy of repair invoice, if repairable\nCopy of replacement quote, if not repairable\n\nEnsure your coverage\n\nAttach a copy of your UAS invoice to your UAS registration in UC Drones\nMake sure you file your Flight Requests\nFor recurrent or on-going activity, create a Project application but don’t forget to add flights before you head out.\nAfter an incident, make sure you take pictures of the damage and file a post-flight report. Add as much detail as possible.",
+    "crumbs": [
+      "Getting Started",
+      "Insurance"
+    ]
+  },
+  {
+    "objectID": "getting-started/insurance.html#rd-party-insurance-minimum",
+    "href": "getting-started/insurance.html#rd-party-insurance-minimum",
+    "title": "Insurance",
+    "section": "3rd Party Insurance Minimum",
+    "text": "3rd Party Insurance Minimum\nAll 3rd Party UAS activity, including on behalf of the University or other users of campus space, must have liability insurance with a preferred limit of $5 Mil. In addition to the limit that is provided by the Operator, a certificate of insurance along with a copy of the endorsement listing the following insurance clauses should be issued prior to commencement of services:\n\nName The University and its directors, officers, employees, servants and agents (collectively, the “Indemnified Parties” and individually, the “Indemnified Party”) as additional insureds, as their respective interests may appear\nThe Operator’s insurance shall be primary without any right of contribution from any other insurance available to The University\nInclude a cross liability or severability of interests among Indemnified Parties, providing that the insurance shall operate in all respects as if a separate policy had been issued covering each party insured\nInclude a waiver of subrogation in favor of the Indemnified Parties.\nThe certificate of insurance shall also provide that, in the event of a cancellation or material restrictive change of the policy which would adversely affect the interest of the Indemnified Parties, the insurers agree to provide 30 days prior written notice to The University.",
+    "crumbs": [
+      "Getting Started",
+      "Insurance"
+    ]
+  },
+  {
+    "objectID": "about-us/mission.html",
+    "href": "about-us/mission.html",
+    "title": "Mission",
     "section": "",
     "text": "The University of California Center of Excellence on Unmanned Aircraft System Safety provides system-wide expertise, support, and training for regulatory compliance, risk management, and the safe operation of unmanned aircraft systems (UAS), commonly known as drones, across the University of California system. This covers all 10 UC campuses, UC Medical Centers, the Division of Agriculture and Natural Resources, the UC Natural Reserve System, UC Cooperative Extensions, and wherever UC conducts official business worldwide.\nSince March 2016, the Center of UAS Safety has worked to develop effective safety and risk management strategies applicable to the wide variety of unmanned aircraft use and development in the UC system. Across the UC system, there are currently an estimated 300 active unmanned aircraft used by UC faculty, staff and students, and the number is growing daily. The UC UAS Policy was finalized in February 2018 to establish a standardized top-down management approach and to assign roles & responsibilities for oversight.",
     "crumbs": [
-      "About Us"
+      "About Us",
+      "Mission"
     ]
   },
   {
-    "objectID": "about.html#unmanned-aircraft-systems-at-the-university-of-california",
-    "href": "about.html#unmanned-aircraft-systems-at-the-university-of-california",
-    "title": "About Us",
+    "objectID": "about-us/mission.html#unmanned-aircraft-systems-at-the-university-of-california",
+    "href": "about-us/mission.html#unmanned-aircraft-systems-at-the-university-of-california",
+    "title": "Mission",
     "section": "",
     "text": "The University of California Center of Excellence on Unmanned Aircraft System Safety provides system-wide expertise, support, and training for regulatory compliance, risk management, and the safe operation of unmanned aircraft systems (UAS), commonly known as drones, across the University of California system. This covers all 10 UC campuses, UC Medical Centers, the Division of Agriculture and Natural Resources, the UC Natural Reserve System, UC Cooperative Extensions, and wherever UC conducts official business worldwide.\nSince March 2016, the Center of UAS Safety has worked to develop effective safety and risk management strategies applicable to the wide variety of unmanned aircraft use and development in the UC system. Across the UC system, there are currently an estimated 300 active unmanned aircraft used by UC faculty, staff and students, and the number is growing daily. The UC UAS Policy was finalized in February 2018 to establish a standardized top-down management approach and to assign roles & responsibilities for oversight.",
     "crumbs": [
-      "About Us"
+      "About Us",
+      "Mission"
     ]
   },
   {
-    "objectID": "about.html#regulatory-compliance-risk-management-and-training",
-    "href": "about.html#regulatory-compliance-risk-management-and-training",
-    "title": "About Us",
+    "objectID": "about-us/mission.html#regulatory-compliance-risk-management-and-training",
+    "href": "about-us/mission.html#regulatory-compliance-risk-management-and-training",
+    "title": "Mission",
     "section": "Regulatory Compliance, Risk Management and Training",
     "text": "Regulatory Compliance, Risk Management and Training\nThe Center is focused on the following goals: - Promote UAS Safety through the development of a UAS Safety Management System, a four-pillared approach of Safety Policy, Safety Risk Management, Safety Assurance, and Safety Promotion - Develop effective UAS policies that define the processes and organization structure for UAS operations - Systematic processes for assessing and managing UAS risk - Fleet management system to provide continued monitoring of UAS activity and risk - Communicate UAS regulations and provide training\nThe wide range of UAS activity by UC affiliates and visitors necessitates a holistic approach to safety. The four-pillared approach, encapsulated as the UAS Safety Management System, structures safety as a combination of multiple aspects. This systematic approach is the first to manage UAS activity at the size and magnitude of the University of California system. While other agencies consider unmanned aircraft an isolated risk, the University of California has incorporated UAS into its Enterprise Risk Management approach.",
     "crumbs": [
-      "About Us"
+      "About Us",
+      "Mission"
     ]
   },
   {
-    "objectID": "about.html#services-provided-by-the-center-of-uas-safety",
-    "href": "about.html#services-provided-by-the-center-of-uas-safety",
-    "title": "About Us",
+    "objectID": "about-us/mission.html#services-provided-by-the-center-of-uas-safety",
+    "href": "about-us/mission.html#services-provided-by-the-center-of-uas-safety",
+    "title": "Mission",
     "section": "Services provided by the Center of UAS Safety",
     "text": "Services provided by the Center of UAS Safety\nAs primarily a service-oriented unit, the Center of UAS Safety has a long list of services it provides to the UC system. Some examples include:\n\nGuidance on UAS laws and regulations\nGuidance on UAS usage on UC property\nGeneration of UAS activity reports\nFleet management system to monitor UAS conditions, pilot training, and flight operations\nIdentification of legal flying sites\nProcessing of authorization for UAS flight operations\nTraining on emerging UAS challenges\nSafety training on UAS operations\n\nFor more information about the University of California Center of Excellence on Unmanned Aircraft System Safety, visit the webpage or contact the Center at UASSafety@ucmerced.edu or (209) 201-2051.",
     "crumbs": [
-      "About Us"
+      "About Us",
+      "Mission"
     ]
   },
   {
-    "objectID": "general-information/code-of-conduct.html",
-    "href": "general-information/code-of-conduct.html",
+    "objectID": "about-us/code-of-conduct.html",
+    "href": "about-us/code-of-conduct.html",
     "title": "Code of Conduct",
     "section": "",
     "text": "For any activity hosted by the UC Center of Excellence on UAS Safety, we expect participants to follow these rules. This includes any in-person training, virtual events, online forums and participation on social media.\nThe UC Center of Excellence is dedicated to providing a harassment-free experience for everyone whether in physical or virtual spaces. We do not tolerate harassment of community members or event participants in any form. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the UC Center of Excellence on UAS Safety and any event organizers.\nHarassment includes offensive verbal comments related to gender, gender identity and expression, sexual orientation, disability, group status, physical appearance, body size, race, or religion. In addition, harassment includes the acts of deliberate intimidation, stalking, following, unwelcome photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.\nIf an event participant engages in harassing behavior, the UC Center of Excellence on UAS Safety or event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event.\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact us by email at UASsafety@ucmerced.edu. We will work with anyone who reports an issue and will work quickly to address the problem.",
     "crumbs": [
-      "General Information",
+      "About Us",
       "Code of Conduct"
     ]
   },
   {
-    "objectID": "general-information/points-of-contact.html",
-    "href": "general-information/points-of-contact.html",
+    "objectID": "getting-started/campus-points-of-contact.html",
+    "href": "getting-started/campus-points-of-contact.html",
     "title": "Campus Points of Contact",
     "section": "",
     "text": "Campus / Entity\nDepartment\nWebsite\nEmail\n\n\n\n\nUC ANR\nInformatics & GIS\nigis.ucanr.edu\nigis@ucanr.edu\n\n\nUC Berkeley\nCampus Police & Risk Services\nCampus Policy\nrisk@berkeley.edu\n\n\nUC Davis\nRisk Services\nSafety Services\nrms@ucdavis.edu\n\n\nUC Irvine\nEH&S and Risk Services\nCampus Policy\n\n\n\nUC Los Angeles\nEvent Services\nDrone Procedures\nevents@ucla.edu\n\n\nUC Merced\nUC CoE on UAS Safety\nUAS Safety\nuassafety@ucmerced.edu\n\n\nLawrence Berkeley National Lab\nEH&S\nAviation Policy\n\n\n\nUC Riverside\nEH&S\nDrone Safety\nehs@ucr.edu\n\n\nUC San Diego\nEH&S\nDrone Safety\nehsfaa@ucsd.edu\n\n\nUC San Francisco\nEH&S\nDrone Operations\nDrones@ucsf.edu\n\n\nUC Santa Barbara\nEH&S\nUAS & Drones\n\n\n\nUC Santa Cruz\nEH&S\nUAS/Drones\nuas@ucsc.edu",
     "crumbs": [
-      "General Information",
+      "Getting Started",
       "Campus Points of Contact"
+    ]
+  },
+  {
+    "objectID": "getting-started/policy.html",
+    "href": "getting-started/policy.html",
+    "title": "Policy and FAQs",
+    "section": "",
+    "text": "The University of California recognizes that UAS offer great potential as tools for research and other educational functions as well as providing opportunities for recreational use and business pursuits across a diverse array of users and industries. The University also has an obligation to consider public safety, privacy, civil rights and civil liberties issues related to the use of UAS. In short, all UAS usage on UC property, for UC business or by UC-owned UAS must be pre-approved and documented by the designated UAS campus point of contact. In addition, non-UC operators on UC property must maintain sufficient liability insurance coverage.\nThe full policy can be found here:\nUnmanned Aircraft System (Drone) Policy\n\nThe UC Presidential Policy on the use of Unmanned Aircraft Systems within the University of California.\n\nUC UAS Policy Guidance\n\nThis guidance is for those who want to learn more about the UC UAS Policy and how it’s implemented across the UC System",
+    "crumbs": [
+      "Getting Started",
+      "Policy and FAQs"
+    ]
+  },
+  {
+    "objectID": "getting-started/policy.html#uc-policy-on-drones",
+    "href": "getting-started/policy.html#uc-policy-on-drones",
+    "title": "Policy and FAQs",
+    "section": "",
+    "text": "The University of California recognizes that UAS offer great potential as tools for research and other educational functions as well as providing opportunities for recreational use and business pursuits across a diverse array of users and industries. The University also has an obligation to consider public safety, privacy, civil rights and civil liberties issues related to the use of UAS. In short, all UAS usage on UC property, for UC business or by UC-owned UAS must be pre-approved and documented by the designated UAS campus point of contact. In addition, non-UC operators on UC property must maintain sufficient liability insurance coverage.\nThe full policy can be found here:\nUnmanned Aircraft System (Drone) Policy\n\nThe UC Presidential Policy on the use of Unmanned Aircraft Systems within the University of California.\n\nUC UAS Policy Guidance\n\nThis guidance is for those who want to learn more about the UC UAS Policy and how it’s implemented across the UC System",
+    "crumbs": [
+      "Getting Started",
+      "Policy and FAQs"
+    ]
+  },
+  {
+    "objectID": "getting-started/policy.html#ch-FAQs",
+    "href": "getting-started/policy.html#ch-FAQs",
+    "title": "Policy and FAQs",
+    "section": "Policy Frequently Asked Questions",
+    "text": "Policy Frequently Asked Questions\n\nWho do I contact to fly on my campus?\nA list of the campus points of contact can be found here. Please understand that in many cases, the use of UAS on UC property are regulated by existing campus policies on activities, registered organizations and use of properties. These regulations are designed to protect and promote the rights of the members of the University, prevent interference with University functions or activities and assure compliance with all pertinent laws and other applicable University policies. For UC students, staff and faculty, you may submit a Flight Request with UC Drones Web App or contact the campus for additional or alternative means to submit a request.\nI need to fly a drone for my research. What do I need to do? How long does it take for approval?\nThere may be several special circumstances, but in general, the operator must have an sUAS license from the FAA and must submit a Flight Request to the local campus point of contact. Depending on the complexity and timing of the request, the flight request could be approved in minutes or may take several weeks if extra FAA approval or coordination is necessary. A Flight Request may be a single flight, a set of flights or cover a year’s worth of activity – the details can be coordinated during the request.\nWhat are the laws for flying a drone in the US?\nThe most common applicable set of laws for flying a drone is Part 107 (Flying for Work or Business https://www.faa.gov/uas/commercial_operators/). This set of law requires the operator to have an SUAS license, have a registered drone and follow the drone laws that limit drone flying to up to 400 ft AGL, during daylight only and may not fly over people or moving vehicles. There are additionally special circumstances or restrictions for foreign nationals (international students, visiting scholars), operating on certain public lands, or within certain states or municipalities.\nCan I fly a personal drone for my research project or my department?\nYes, as long as you comply with UC policy. Anyone operating under UC policy for university business (regardless of ownership) may additionally be provided with UC UAS liability insurance coverage free of charge.\nI have a complicated or non-standard scenario. Who should I contact to identify what I need to do?\nPlease feel free to contact either your campus point of contact or the UC Center of Excellence on UAS Safety. We will work to ensure that there is a path forward for you to conduct your flight activity. We have experience with international UAS regulations, public agency airworthiness certification, night-time operations, airspace authorizations, DOT foreign national operator permits and agricultural spraying certificates to name a few.\nI’m looking to fly a drone, but it says we are within 5 miles from the Davis Airport (KEDU). Is there anything we need to do to get approval to fly?\nThe Davis Airport (KEDU) is an airport in Class G airspace, and no Airspace Authorization is required. Additionally, the requirement to notify all airports within 5 miles has been rescinded. You may fly a drone wherever you have permission to do so, without being required to notify KEDU.",
+    "crumbs": [
+      "Getting Started",
+      "Policy and FAQs"
+    ]
+  },
+  {
+    "objectID": "getting-started/training-modules.html",
+    "href": "getting-started/training-modules.html",
+    "title": "Training Modules",
+    "section": "",
+    "text": "How to be a good visual observer\n\nThis is an introduction for learning how to be a good Visual Observers for novices of drone operations. Share this link with anyone who wants to be more prepared for drone operations.\n\nFire Safety for Drones\n\nFire is an ever-present danger in California. Please go through this fire safety training before operating in any fire risk environments.",
+    "crumbs": [
+      "Getting Started",
+      "Training Modules"
+    ]
+  },
+  {
+    "objectID": "getting-started/training-modules.html#beginner-training",
+    "href": "getting-started/training-modules.html#beginner-training",
+    "title": "Training Modules",
+    "section": "",
+    "text": "How to be a good visual observer\n\nThis is an introduction for learning how to be a good Visual Observers for novices of drone operations. Share this link with anyone who wants to be more prepared for drone operations.\n\nFire Safety for Drones\n\nFire is an ever-present danger in California. Please go through this fire safety training before operating in any fire risk environments.",
+    "crumbs": [
+      "Getting Started",
+      "Training Modules"
+    ]
+  },
+  {
+    "objectID": "getting-started/training-modules.html#cinematography-flight-training",
+    "href": "getting-started/training-modules.html#cinematography-flight-training",
+    "title": "Training Modules",
+    "section": "Cinematography Flight Training",
+    "text": "Cinematography Flight Training\n\nBasic Tips and Tricks for Cinematography with Drones\n\nThis is a training for anyone getting started with using drones for cinematography or video production. In this training, we’ll introduce how to start getting cinematic footage with your drone, how to do it safely and legally, and then some basic flight maneuvers to practice.",
+    "crumbs": [
+      "Getting Started",
+      "Training Modules"
+    ]
+  },
+  {
+    "objectID": "getting-started/training-modules.html#drone-flight-instruction",
+    "href": "getting-started/training-modules.html#drone-flight-instruction",
+    "title": "Training Modules",
+    "section": "Drone Flight Instruction",
+    "text": "Drone Flight Instruction\nLearning how to fly a drone is easy - just don’t crash! But if you need more help, take a look through our flight instruction curriculum here:\n\nTraining for Flight Instructors\n\nWill you be teaching new pilots? Here’s a new training just for you - Regulations, topics to cover, safety planning and best practices for flight instruction.\n\nBeginner Flight Packet\nAdvanced Flight Packet\nGuide to Drone Flight Instruction",
+    "crumbs": [
+      "Getting Started",
+      "Training Modules"
+    ]
+  },
+  {
+    "objectID": "getting-started/training-modules.html#more-resources-for-developing-training",
+    "href": "getting-started/training-modules.html#more-resources-for-developing-training",
+    "title": "Training Modules",
+    "section": "More Resources for Developing Training",
+    "text": "More Resources for Developing Training\nResources developed by UC Risk and Safety Training for best practices on developing training guides and materials\n\nActive Learning Strategies for Training\nInstructional Design for Training\nVisual Design for Training",
+    "crumbs": [
+      "Getting Started",
+      "Training Modules"
+    ]
+  },
+  {
+    "objectID": "getting-started/training-modules.html#short-drone-guides",
+    "href": "getting-started/training-modules.html#short-drone-guides",
+    "title": "Training Modules",
+    "section": "Short Drone Guides",
+    "text": "Short Drone Guides\nPlease visit our UC Drone Guides Portal for additional short training material and guidance on topics such as drone camera settings and mapping operations.\nhttp://ucdrones.github.io/Drone_Guides/",
+    "crumbs": [
+      "Getting Started",
+      "Training Modules"
+    ]
+  },
+  {
+    "objectID": "posts/2026-08-13-new-tariffs/index.html",
+    "href": "posts/2026-08-13-new-tariffs/index.html",
+    "title": "New Tariffs on Drones",
+    "section": "",
+    "text": "The president decided to proclaim new tariffs on drones - link\n\nNew Section 232 tariffs on drones (UAS): Effective Sept 3, 2026, a 100% tariff applies to UAS over 25kg, thermal-imaging UAS, docking stations, and certain critical components (motors, batteries, controllers); a 25% tariff applies to UAS 25kg or under. A further 25% tariff on other listed UAS components takes effect Feb 9, 2027 (a 180-day delay meant to encourage domestic sourcing first).\nStated rationale: Commerce Dept investigation found the U.S. overly reliant on foreign UAS supply chains (even domestically-assembled drones use foreign parts), cited cybersecurity/data-exfiltration risks from foreign-made drone software, and concluded domestic manufacturing capacity is insufficient for military and civilian demand.\nCarve-outs and incentives: Lower capped tariffs (15% or 10% for the UK) apply to Japan, South Korea, Taiwan, Switzerland, Liechtenstein, EU members, and the UK if components are certified as substantially originating there; companies with DoW/FCC-cleared products get a 180-day delay; and Commerce can grant tariff-free import allowances to companies committing to build new U.S. production facilities before January 2029, subject to monitoring and clawback for noncompliance or fraud.\n\n← Back to Recent News"
+  },
+  {
+    "objectID": "recent-news.html",
+    "href": "recent-news.html",
+    "title": "Recent News",
+    "section": "",
+    "text": "Brandon Stark\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrandon Stark\n\n\n\n\n\n\n\n\n\n\n\n\nExample\n\n\n\nRegulations\n\n\n\nThis is a test\n\n\n\n\n\nSep 23, 2026\n\n\nBrandon Stark\n\n\n\n\n\n\n\n\n\n\n\n\nNew Tariffs on Drones\n\n\n\nRegulations\n\n\n\nPresidential Executive Order proclaims new tariffs on drones\n\n\n\n\n\nAug 13, 2026\n\n\nBrandon Stark\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Recent News"
+    ]
+  },
+  {
+    "objectID": "selecting-a-drone/index.html",
+    "href": "selecting-a-drone/index.html",
+    "title": "Need to Pick a Drone?",
+    "section": "",
+    "text": "This page directs users to drone recommendations organized by intended use. Select the category below that corresponds to your needs.",
+    "crumbs": [
+      "Need to Pick a Drone?"
+    ]
+  },
+  {
+    "objectID": "selecting-a-drone/index.html#categories",
+    "href": "selecting-a-drone/index.html#categories",
+    "title": "Need to Pick a Drone?",
+    "section": "Categories",
+    "text": "Categories\n\n\n\nIntended Use\nSee\n\n\n\n\nA low-cost drone for learning or casual use\nLow-Cost Drones\n\n\nPhotography or videography\nDrones for Multimedia\n\n\nDrones for mapping projects\nDrones for Mapping\n\n\nDrones for federally funded projects\nNDAA-Compliant\n\n\nA full comparison of all available options\nDrone Comparison Table\n\n\n\nFor additional guidance, see the New User Guide.",
+    "crumbs": [
+      "Need to Pick a Drone?"
+    ]
+  },
+  {
+    "objectID": "selecting-a-drone/mapping-drones.html",
+    "href": "selecting-a-drone/mapping-drones.html",
+    "title": "Drones for Mapping",
+    "section": "",
+    "text": "Producing high-resolution maps and elevation models requires a drone compatible with automated mapping software.\n\n\n\n\n\n\nImportant\n\n\n\nThere are no low-cost drones for mapping that are US-made or NDAA compliant. Please refer to NDAA-Compliant Drones.\n\n\n\nMatrice 4E — Matrice 4E, $5,300. Part of DJI’s enterprise Mavic-sized line, with Mavic 3-comparable performance, an improved camera, and enhanced autonomy.\nAutel EVO II Pro — Evo II Pro, $2,500. A comparable alternative to the Mavic series with mapping functionality included, unlike comparable DJI models.",
+    "crumbs": [
+      "Need to Pick a Drone?",
+      "Drones for Mapping"
+    ]
+  },
+  {
+    "objectID": "selecting-a-drone/ndaa-compliance.html",
+    "href": "selecting-a-drone/ndaa-compliance.html",
+    "title": "NDAA Compliant Drones",
+    "section": "",
+    "text": "Important\n\n\n\nIn late 2023, the National Defense Authorization Act introduced new regulations that prohibit the use of Federal Funds for any drone manufactured in China, or any drone utilizing critical components manufactured in China. Unfortunately, there aren’t a lot of good options right now, but there are a couple worthy of investment for larger grants and contracts.",
+    "crumbs": [
+      "Need to Pick a Drone?",
+      "NDAA Compliant Drones"
+    ]
+  },
+  {
+    "objectID": "selecting-a-drone/ndaa-compliance.html#ndaa-compliant-options",
+    "href": "selecting-a-drone/ndaa-compliance.html#ndaa-compliant-options",
+    "title": "NDAA Compliant Drones",
+    "section": "NDAA Compliant Options",
+    "text": "NDAA Compliant Options\n\nSkydio X10 — Skydio X10, ~$20k. Good camera and zoom. Main advantage is NDAA compliance itself. RGB-only mapping requires an additional subscription.\nWingtraOne Gen II — Wingtra. Tail-sitter VTOL, up to an hour of flight time, good for tight takeoff spaces with large areas to cover. NDAA 848 compliant versions available.\neBee X — eBee, from $11,000 (+$4k–$10k for payload). NDAA 848 and Class 3 (operations over people) compliant. Best for large open areas.\nFreefly Astro Max (NDAA/Blue) — Freefly Astro Max, $40k. Configurable medium-lift M300/350 replacement. No RTK support in the compliant version.\nInspired Flight IF800 - Inspired Flight IF800, $40k. Configurable medium-lift M300/350 replacement. A little more stable than the Astro, but otherwise very similar performance.",
+    "crumbs": [
+      "Need to Pick a Drone?",
+      "NDAA Compliant Drones"
+    ]
+  },
+  {
+    "objectID": "tools-and-resources/templates.html",
+    "href": "tools-and-resources/templates.html",
+    "title": "Documents and Templates",
+    "section": "",
+    "text": "Templates and checklists to support mission planning, risk evaluation, and pre-flight preparation. Download and customize as needed for your program.\n\nMission Planning Template (DOCX)\nHazard and Risk Evaluation Template (DOCX)\nPre-Flight Crew Briefing Template (DOCX)\nPre-Flight Checklist (DOCX)\nMission Checklist (DOCX)\nEmergency Procedures (DOCX)",
+    "crumbs": [
+      "Tools and Resources",
+      "Documents and Templates"
     ]
   }
 ]

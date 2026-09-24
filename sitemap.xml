@@ -1,23 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/tools-and-resources/useful-links.html</loc>
+    <lastmod>2026-09-24T00:07:54.795Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/tools-and-resources/decision-tools.html</loc>
+    <lastmod>2026-09-23T22:21:05.513Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/selecting-a-drone/multimedia-drones.html</loc>
+    <lastmod>2026-09-23T22:21:01.916Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/selecting-a-drone/low-cost.html</loc>
+    <lastmod>2026-09-23T22:21:02.658Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/selecting-a-drone/drone-table.html</loc>
+    <lastmod>2026-09-23T22:34:47.317Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/posts/2026-09-23-example/index.html</loc>
+    <lastmod>2026-09-23T22:48:10.913Z</lastmod>
+  </url>
+  <url>
     <loc>https://UCDrones-research.github.io/sandbox_page/index.html</loc>
-    <lastmod>2026-09-16T23:44:00.438Z</lastmod>
+    <lastmod>2026-09-24T00:08:56.485Z</lastmod>
   </url>
   <url>
-    <loc>https://UCDrones-research.github.io/sandbox_page/general-information/index.html</loc>
-    <lastmod>2026-09-16T23:28:32.358Z</lastmod>
+    <loc>https://UCDrones-research.github.io/sandbox_page/getting-started/standard-operating-procedures.html</loc>
+    <lastmod>2026-09-17T19:05:40.474Z</lastmod>
   </url>
   <url>
-    <loc>https://UCDrones-research.github.io/sandbox_page/about.html</loc>
-    <lastmod>2026-09-16T23:08:29.881Z</lastmod>
+    <loc>https://UCDrones-research.github.io/sandbox_page/getting-started/insurance.html</loc>
+    <lastmod>2026-09-17T18:59:47.107Z</lastmod>
   </url>
   <url>
-    <loc>https://UCDrones-research.github.io/sandbox_page/general-information/code-of-conduct.html</loc>
-    <lastmod>2026-09-16T23:04:52.536Z</lastmod>
+    <loc>https://UCDrones-research.github.io/sandbox_page/about-us/mission.html</loc>
+    <lastmod>2026-09-17T19:03:36.906Z</lastmod>
   </url>
   <url>
-    <loc>https://UCDrones-research.github.io/sandbox_page/general-information/points-of-contact.html</loc>
-    <lastmod>2026-09-16T23:49:50.675Z</lastmod>
+    <loc>https://UCDrones-research.github.io/sandbox_page/about-us/code-of-conduct.html</loc>
+    <lastmod>2026-09-17T17:18:54.505Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/getting-started/campus-points-of-contact.html</loc>
+    <lastmod>2026-09-17T19:06:26.750Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/getting-started/policy.html</loc>
+    <lastmod>2026-09-17T19:09:16.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/getting-started/training-modules.html</loc>
+    <lastmod>2026-09-24T00:10:16.852Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/posts/2026-08-13-new-tariffs/index.html</loc>
+    <lastmod>2026-09-23T23:36:08.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/recent-news.html</loc>
+    <lastmod>2026-09-23T23:46:24.552Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/selecting-a-drone/index.html</loc>
+    <lastmod>2026-09-22T17:18:50.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/selecting-a-drone/mapping-drones.html</loc>
+    <lastmod>2026-09-23T22:21:01.018Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/selecting-a-drone/ndaa-compliance.html</loc>
+    <lastmod>2026-09-23T22:20:59.881Z</lastmod>
+  </url>
+  <url>
+    <loc>https://UCDrones-research.github.io/sandbox_page/tools-and-resources/templates.html</loc>
+    <lastmod>2026-09-23T22:21:04.641Z</lastmod>
   </url>
 </urlset>
