@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "Mission"
 ---
 
 ## Unmanned Aircraft Systems at the University of California

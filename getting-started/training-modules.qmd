@@ -1,0 +1,38 @@
+---
+title: "Training Modules"
+---
+
+## Beginner Training
+- [How to be a good visual observer](https://ucdrones.github.io/library/trainings/VisualObserver/index.html){target="_blank"}
+    - This is an introduction for learning how to be a good Visual Observers for novices of drone operations.  Share this link with anyone who wants to be more prepared for drone operations.
+- [Fire Safety for Drones](https://ucdrones.github.io/library/trainings/FireSafety/index.html){target="_blank"}
+    - Fire is an ever-present danger in California.  Please go through this fire safety training before operating in any fire risk environments.
+
+## Cinematography Flight Training
+- [Basic Tips and Tricks for Cinematography with Drones](https://ucdrones.github.io/library/trainings/BasicCinema/index.html){target="_blank"} 
+    - This is a training for anyone getting started with using drones for cinematography or video production.  In this training, we'll introduce how to start getting cinematic footage with your drone, how to do it safely and legally, and then some basic flight maneuvers to practice.
+
+## Drone Flight Instruction
+Learning how to fly a drone is easy - just don't crash!  But if you need more help, take a look through our flight instruction curriculum here:
+
+- [Training for Flight Instructors](https://ucdrones.github.io/library/trainings/FlightTraining/index.html){target="_blank"}
+    - Will you be teaching new pilots?  Here's a new training just for you - Regulations, topics to cover, safety planning and best practices for flight instruction.
+- [Beginner Flight Packet](https://ucdrones.github.io/library/trainings/FlightInstruction/Beginner_Packet.pdf)
+- [Advanced Flight Packet](https://ucdrones.github.io/library/trainings/FlightInstruction/Advanced_Packet.pdf)
+- [Guide to Drone Flight Instruction](https://ucdrones.github.io/library/trainings/FlightInstruction/Guide_to_Drone_Flight_Instruction.pdf)
+
+## More Resources for Developing Training
+Resources developed by UC Risk and Safety Training for best practices on developing training guides and materials
+
+- [Active Learning Strategies for Training](https://ucdrones.github.io/library/active_learning.pdf)
+- [Instructional Design for Training](https://ucdrones.github.io/library/instructional_design.pdf)
+- [Visual Design for Training](https://ucdrones.github.io/library/visual_design.pdf)
+
+
+## Short Drone Guides
+
+Please visit our UC Drone Guides Portal for additional short training material and guidance on topics such as drone camera settings and mapping operations.
+
+http://ucdrones.github.io/Drone_Guides/
+
+

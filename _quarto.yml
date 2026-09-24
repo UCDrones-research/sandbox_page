@@ -6,21 +6,27 @@ website:
   navbar:
     logo: false
   sidebar:
-    contents: auto
+    collapse-level: 1
+    contents: 
+      - index.qmd
+      - recent-news.qmd
+      - auto: about-us
+      - auto: getting-started
+      - auto: tools-and-resources
+      - auto: selecting-a-drone
   page-footer:
     background: dark
-    left: "© 2026 [Your Institution Name]"
-    right:
-      - icon: envelope
-        href: mailto:info@yourschool.edu
+    left: "© 2026 UC Center of Excellence on UAS Safety "
+    right: |
+      [<i class="bi bi-envelope me-2" aria-hidden="true"></i>Email us](mailto:uassafety@ucmerced.edu)
+        
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: styles.scss
     toc: true
+    include-after-body: a11y-fixes.html
+    axe: true
 
 editor: visual
 

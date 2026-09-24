@@ -1,0 +1,13 @@
+---
+title: "Documents and Templates"
+format: html
+---
+
+Templates and checklists to support mission planning, risk evaluation, and pre-flight preparation. Download and customize as needed for your program.
+
+- [Mission Planning Template](https://ucdrones.github.io/library/mission_planning_template.docx) (DOCX)
+- [Hazard and Risk Evaluation Template](https://ucdrones.github.io/library/hazard_risk_checklist.docx) (DOCX)
+- [Pre-Flight Crew Briefing Template](https://ucdrones.github.io/library/preflight_briefing_template.docx) (DOCX)
+- [Pre-Flight Checklist](https://ucdrones.github.io/library/preflight_checklist.docx) (DOCX)
+- [Mission Checklist](https://ucdrones.github.io/library/mission_checklist_template.docx) (DOCX)
+- [Emergency Procedures](https://ucdrones.github.io/library/emergency_procedure_checklists.docx) (DOCX)

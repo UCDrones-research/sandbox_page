@@ -1,8 +1,0 @@
----
-title: "General Information"
----
-
-
-This is the main GI landing page
-
-{{< now year-month-day >}}
